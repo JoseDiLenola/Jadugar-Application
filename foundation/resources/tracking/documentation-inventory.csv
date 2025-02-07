@@ -1,8 +1,0 @@
-Title,Type,URL,Local Path,Backup Location,Owner,Review Schedule,Last Updated,Audience,Prerequisites,Related Docs,Status,Format
-Project Overview,Guide,N/A,/README.md,Git,Development Team,Monthly,2025-02-04,All Users,None,Contributing Guide,Active,Markdown
-Contributing Guide,Reference,N/A,/CONTRIBUTING.md,Git,Development Team,Monthly,2025-02-04,Contributors,Git basics,Project Overview,Active,Markdown
-Phase 1 Checklist,Checklist,N/A,/development/checklists/phases/phase-1-foundation.md,Git,Development Team,Weekly,2025-02-04,Development Team,Project context,Project Overview,Active,Markdown
-Code Style Guide,Reference,N/A,/technical/standards/code-style-guide.md,Git,Development Team,Monthly,2025-02-04,Developers,TypeScript,Development Guide,Active,Markdown
-Deployment Process,Guide,N/A,/technical/deployment/deployment-process.md,Git,Development Team,Monthly,2025-02-04,DevOps,Development setup,Code Style Guide,Active,Markdown
-TypeScript Config,Reference,N/A,/tsconfig.json,Git,Development Team,Monthly,2025-02-04,Developers,TypeScript,Code Style Guide,Active,JSON
-Jest Config,Reference,N/A,/jest.config.js,Git,Development Team,Monthly,2025-02-04,Developers,Testing,Code Style Guide,Active,JavaScript

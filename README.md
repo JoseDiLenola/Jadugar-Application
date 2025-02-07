@@ -1,1 +1,0 @@
-/Users/josed/CascadeProjects/active/jadugar/docs/INDEX.md
