@@ -1,0 +1,16 @@
+Resource Type,Name,Version,Purpose,Installation Method,Configuration Location,Documentation URL,Last Updated,Last Checked,Next Check Due,Update Frequency,Owner,Status,Security Level,Cost,Notes
+Tool,Pandoc,Latest,Markdown to PDF conversion,brew install pandoc,System-wide,https://pandoc.org/MANUAL.html,2025-02-04,2025-02-04,2025-03-04,Monthly,Development Team,Active,Low,Free,Required for documentation
+Tool,BasicTeX,Latest,PDF generation engine,brew install basictex,System-wide,https://www.tug.org/mactex/morepackages.html,2025-02-04,2025-02-04,2025-03-04,Monthly,Development Team,Active,Low,Free,Required for PDF generation
+Tool,TypeScript,5.3.3,Type-safe development,npm install typescript,/tsconfig.json,https://www.typescriptlang.org/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Medium,Free,Core development language
+Tool,Jest,29.7.0,Testing framework,npm install jest,/jest.config.js,https://jestjs.io/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Medium,Free,Testing framework
+Tool,ESLint,8.56.0,Code linting,npm install eslint,/.eslintrc,https://eslint.org/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Code quality tool
+Tool,Prettier,3.2.5,Code formatting,npm install prettier,/.prettierrc,https://prettier.io/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Code formatting tool
+Dependency,nodemailer,6.10.0,Email functionality,npm install,/tools/pdf-email/package.json,https://nodemailer.com/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Medium,Free,Email service integration
+Dependency,dotenv,16.4.7,Environment management,npm install,/tools/pdf-email/package.json,https://github.com/motdotla/dotenv,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Medium,Free,Credential management
+Dependency,ts-jest,29.1.2,TypeScript testing,npm install,/jest.config.js,https://kulshekhar.github.io/ts-jest,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Medium,Free,TypeScript test support
+Dependency,husky,9.0.10,Git hooks,npm install,/.husky,https://typicode.github.io/husky/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Git workflow automation
+Service,Gmail SMTP,N/A,Documentation distribution,N/A,/tools/pdf-email/.env,https://support.google.com/mail,2025-02-04,2025-02-04,2025-03-04,Monthly,Development Team,Active,High,Free,PDF distribution service
+Website,Node.js Docs,Current,API Reference,N/A,N/A,https://nodejs.org/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Primary Node.js reference
+Website,Pandoc Manual,Current,Tool Documentation,N/A,N/A,https://pandoc.org/MANUAL.html,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Pandoc usage reference
+Website,TypeScript Docs,Current,Language Reference,N/A,N/A,https://www.typescriptlang.org/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,TypeScript documentation
+Website,Jest Docs,Current,Testing Reference,N/A,N/A,https://jestjs.io/docs/,2025-02-04,2025-02-04,2025-02-18,Bi-weekly,Development Team,Active,Low,Free,Testing documentation

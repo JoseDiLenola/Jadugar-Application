@@ -1,0 +1,3 @@
+Name,Version,Purpose,Package Manager,Install Command,Dependencies,Setup Steps,Config Options,Entry Points,Usage Examples,Update Process,Test Requirements,Compatibility,Status
+nodemailer,6.10.0,Email sending,npm,npm install nodemailer,None,Import and configure,SMTP settings,sendMail,PDF email script,npm update,Unit tests,Node.js 14+,Active
+dotenv,16.4.7,Environment vars,npm,npm install dotenv,None,Import and configure,.env file location,config,Credential loading,npm update,Environment tests,Node.js 12+,Active

@@ -1,0 +1,3 @@
+Name,Type,Provider,Setup Steps,Scaling Parameters,Monitoring Setup,Access Method,Required Permissions,Security Measures,Pricing Model,Usage Limits,Cost Optimization,Status
+Local Development,Compute,Local,Standard dev setup,N/A,System monitoring,Direct,Admin,Standard security,Free,Hardware limits,N/A,Active
+Email Service,Service,Gmail,SMTP configuration,2000 emails/day,Error logging,SMTP Auth,Send mail,App password,Free tier,2000/day & 25MB attach,Batch processing,Active

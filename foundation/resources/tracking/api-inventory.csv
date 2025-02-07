@@ -1,0 +1,2 @@
+API Name,Version,Endpoint,Auth Type,Credential Location,Rate Limits,Cost Tier,Service Dependencies,Error Handling,Fallback Strategy,API Docs,Support Contact,Status,Last Review
+Gmail API,v1,https://gmail.googleapis.com,OAuth,/tools/pdf-email/.env,2000/day,Free,None,Retry with backoff,Local queue,https://developers.google.com/gmail/api,Google Support,Active,2025-02-04
